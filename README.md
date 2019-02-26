@@ -5,7 +5,7 @@ Your friend owns a nightclub, and the nightclub is suffering an epidemic of stol
 
 She's given you:
 `visitor_log.csv` - details of who visited the club and on what day 
-`theft_log.csv' - a list of days on which thefts were reported to occur
+`theft_log.csv` - a list of days on which thefts were reported to occur
 
 She wants from you:
 - A list of ID details for the 20 most suspicious patrons, ranked from most-suspicious to least-suspicious.
